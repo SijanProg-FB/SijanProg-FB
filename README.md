@@ -1,4 +1,4 @@
-<h1 align="center">✨ Who am I? <3</h1>
+<h1 align="center">✨ Who am I ? </h1>
 <h3 align="center">My name is Sijan Lamichhane Magar and I’m admin of SijanProg web developing page on Facebook. On this page you will find all of the code snippets that I share on my youtube channel.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sijanprog-fb&label=Profile%20views&color=0e75b6&style=flat" alt="sijanprog-fb" /> </p>
